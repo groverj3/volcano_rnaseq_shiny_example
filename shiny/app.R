@@ -50,7 +50,7 @@ volcplot <- function(data, padj_threshold = 0.05, fc = 1, plot_title = 'Volcano 
   )
 
 
-  # Make the plot, these options are a reasonable strting point
+  # Make the plot, these options are a reasonable starting point
   plot <- ggplot(plot_ready_data) +
     geom_point(
       alpha = 0.25,
