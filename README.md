@@ -16,6 +16,13 @@ The best way to start the app is to use [renv](https://rstudio.github.io/renv/ar
 4. Install all dependencies with `renv::restore()`.
 5. Start the app with `shiny::runApp("shiny")`.
 
+## Example Images
+
+![Load in the test data](images/volcano_plotteR_1.png)
+
+![Change things, it's reactive!](images/volcano_plotteR_2.png)
+
+
 ## Reference
 
 This app uses test data from the R package `pasilla`:
