@@ -25,7 +25,7 @@ The best way to start the app is to use [renv](https://rstudio.github.io/renv/ar
 
 ## Reference
 
-This app uses test data from the R package `pasilla`:
+This app uses test data from the R package [`pasilla`](https://bioconductor.org/packages/release//data/experiment/html/pasilla.html):
 
 Huber W, Reyes A (2024). pasilla: Data package with per-exon and per-gene read
 counts of RNA-seq samples of Pasilla knock-down by Brooks et al., Genome
